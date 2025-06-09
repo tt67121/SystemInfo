@@ -13,6 +13,9 @@
 #匹配查询域名
 DOMAIN-KEYWORD,shandian
 DOMAIN-KEYWORD,bluetile
+DOMAIN-KEYWORD,docker
 
 #域名匹配
 #DOMAIN-SUFFIX,naiyous.com
+#DOMAIN-SUFFIX,nbw.one
+#DOMAIN-SUFFIX,两元店.com
