@@ -12,3 +12,7 @@
 
 #匹配查询域名
 DOMAIN-KEYWORD,shandian
+DOMAIN-KEYWORD,bluetile
+
+#域名匹配
+#DOMAIN-SUFFIX,naiyous.com
