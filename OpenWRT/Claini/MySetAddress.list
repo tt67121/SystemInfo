@@ -1,0 +1,14 @@
+# MySetAddress
+
+#作用：匹配进程名为 OneDrive 的程序
+#PROCESS-NAME,shandian
+#作用：匹配 User-Agent 字符串以 OneDrive 开头的请求。
+#USER-AGENT,shandian*
+#作用：匹配所有包含 1drv 的域名（如 1drv.ms）
+#DOMAIN-KEYWORD,1drv
+#作用：匹配所有以 livefilestore.com 结尾的域名。
+#DOMAIN-SUFFIX,livefilestore.com
+
+
+#匹配查询域名
+DOMAIN-KEYWORD,shandian
